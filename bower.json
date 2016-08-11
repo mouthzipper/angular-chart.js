@@ -36,9 +36,5 @@
     "examples",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "angular": "1.x",
-    "chart.js": "npm:chart.js#2.x"
-  }
+  ]
 }
